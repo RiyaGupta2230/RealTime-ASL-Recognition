@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "c:/Web Development/projects/Sign_language_alphabet_recognizer-master/.conda/Lib/site-packages"
+    ]
+}

@@ -1,0 +1,14 @@
+Keras
+matplotlib
+numpy
+opencv-python
+pypiwin32
+pyttsx3
+pywin32
+PyYAML
+scipy
+six
+tensorflow
+pandas
+scikit-learn
+seaborn
