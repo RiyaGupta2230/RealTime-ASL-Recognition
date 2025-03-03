@@ -1,6 +1,3 @@
-Below is the updated README file reflecting the revised project details:
-
----
 
 # Real-Time Sign Language Recognition Using Deep Learning Techniques
 
