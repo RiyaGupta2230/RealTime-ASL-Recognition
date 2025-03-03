@@ -1,0 +1,6 @@
+X_train.npy
+y_train.npy
+model.keras
+best_model.keras echo .conda
+__pycache__/
+.vscode/
